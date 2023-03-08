@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/voidoperator">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Julio+Nunez+%7C+Software+Engineer;DSA+Enthusiast+%7C+Coffee+Connoisseur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Julio+Nunez+%7C+Software+Engineer;DSA+Enthusiast+%7C+Coffee+Connoisseur" alt="void(0) typing svg" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/voidoperator">
-      <img src="https://github-stats-alpha.vercel.app/api?username=voidoperator&cc=22272e&tc=37BCF6&ic=fff&bc=0000&count_private=true&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&hide_followers=true&bg_color=00000000">
+      <img src="https://github-stats-vz.vercel.app/api?username=voidoperator&cc=22272e&tc=37BCF6&ic=fff&bc=0000show_icons=true&hide_border=true&hide_title=true&bg_color=00000000">
   </a>
 </p>
 
