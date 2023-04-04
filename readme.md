@@ -8,13 +8,16 @@
 
 <p align="center">
   <a href="https://julionunez.dev">
-      <img src="https://img.shields.io/badge/Website-julionunez.dev-red?style=flat-square">
+      <img src="https://img.shields.io/badge/Portfolio-julionunez.dev-red?style=flat-square">
+  </a>
+    <a href="https://julionunez.dev/Julio-Nunez-Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-blue?style=flat-square&logo=adobe">
   </a>
   <a href="https://www.linkedin.com/in/julio-nunez/">
-      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+      <img src="https://img.shields.io/badge/-Linkedin-red?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:julionunez@me.com">
-      <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
