@@ -7,6 +7,9 @@
 <br/>
 
 <p align="center">
+  <a href="https://gkos.tech">
+      <img src="https://img.shields.io/badge/Website-julionunez.dev-red?style=flat-square">
+  </a>
   <a href="https://www.linkedin.com/in/julio-nunez/">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
